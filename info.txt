@@ -4,7 +4,7 @@
 [EARLIEST_COMPATIBLE_NUMERIC_VERSION:5001]
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01]
 [AUTHOR:papercrane1001]
-[NAME:[1001] Magma Furnace]
+[NAME:-1001- Magma Furnace]
 [DESCRIPTION:Added reaction to wood furnace to turn stone into magma.  To use, make iron minecarts to be filled, then queue them up.  
 
 Like my mod? Donate at:
@@ -15,7 +15,7 @@ which mostly says that if you use my code, please give me credit.
 ]
 
 
-[STEAM_TITLE:1001's Resource Plants]
+[STEAM_TITLE:-1001- Magma Furnace]
 [STEAM_DESCRIPTION:Added reaction to wood furnace to turn stone into magma.  To use, make iron minecarts to be filled, then queue them up. 
 
 Like my mod? Donate at:
@@ -28,3 +28,5 @@ which mostly says that if you use my code, please give me credit.
 [STEAM_KEY_VALUE_TAG:test:stuff]
 [STEAM_METADATA:metadata test]
 [STEAM_CHANGELOG:Init]
+
+[STEAM_FILE_ID:2901852111]
