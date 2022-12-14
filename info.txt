@@ -1,0 +1,30 @@
+[ID:PC1001_MagmaFurnace]
+[NUMERIC_VERSION:0101]
+[DISPLAYED_VERSION:1.01]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:5001]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01]
+[AUTHOR:papercrane1001]
+[NAME:[1001] Magma Furnace]
+[DESCRIPTION:Added furnace whose sole purpose is to turn stone into magma.  To use, make iron minecarts to be filled, then queue them up.  
+
+Like my mod? Donate at:
+https://ko-fi.com/papercrane1001
+
+I use the MIT license: https://opensource.org/licenses/MIT
+which mostly says that if you use my code, please give me credit.
+]
+
+
+[STEAM_TITLE:1001's Resource Plants]
+[STEAM_DESCRIPTION:Added furnace whose sole purpose is to turn stone into magma.  To use, make iron minecarts to be filled, then queue them up. 
+
+Like my mod? Donate at:
+https://ko-fi.com/papercrane1001
+
+I use the MIT license: https://opensource.org/licenses/MIT
+which mostly says that if you use my code, please give me credit.
+]
+[STEAM_TAG:mod]
+[STEAM_KEY_VALUE_TAG:test:stuff]
+[STEAM_METADATA:metadata test]
+[STEAM_CHANGELOG:Init]
